@@ -1,0 +1,12 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=Dionysus_PCB.PrjPcb
+[Project2]
+ProjectPath=CD1_FPGA_PROJECT.PrjFpg
+[Project3]
+ProjectPath=..\Library\Main Library.LibPkg
+[Project4]
+ProjectPath=..\Dionysus_Camera_Shield\Dionysus_Camera_Expansion.PrjPCB
+[Project5]
+ProjectPath=..\Dionysus LCD PMOD\Dionysus LCD PMOD.PrjPCB

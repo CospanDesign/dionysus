@@ -1,0 +1,22 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 3:38:13 PM On 9/20/2012
+
+Output: Gerber Files
+Type  : Gerber
+From  : PCB Document [CAMERA_SHEILD_PCB.PcbDoc]
+   Generated File[CAMERA_SHEILD_PCB.GTL]
+   Generated File[CAMERA_SHEILD_PCB.GBL]
+   Generated File[CAMERA_SHEILD_PCB.GTO]
+   Generated File[CAMERA_SHEILD_PCB.GTS]
+   Generated File[CAMERA_SHEILD_PCB.GBS]
+   Generated File[CAMERA_SHEILD_PCB.GBO]
+   Generated File[CAMERA_SHEILD_PCB.RUL]
+   Generated File[CAMERA_SHEILD_PCB.EXTREP]
+   Generated File[CAMERA_SHEILD_PCB.REP]
+
+
+Files Generated   : 9
+Documents Printed : 0
+
+Finished Output Generation At 3:38:15 PM On 9/20/2012

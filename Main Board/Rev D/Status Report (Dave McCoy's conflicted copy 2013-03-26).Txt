@@ -1,0 +1,29 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 10:13:05 AM On 8/29/2012
+
+Output: Gerber Files
+Type  : Gerber
+From  : PCB Document [Dionysus.PcbDoc]
+   Generated File[Dionysus.GTL]
+   Generated File[Dionysus.GP1]
+   Generated File[Dionysus.GP2]
+   Generated File[Dionysus.GBL]
+   Generated File[Dionysus.GPB]
+   Generated File[Dionysus.GPT]
+   Generated File[Dionysus.GTO]
+   Generated File[Dionysus.GTP]
+   Generated File[Dionysus.GTS]
+   Generated File[Dionysus.GBS]
+   Generated File[Dionysus.GBP]
+   Generated File[Dionysus.GBO]
+   Generated File[Dionysus.GKO]
+   Generated File[Dionysus.RUL]
+   Generated File[Dionysus.EXTREP]
+   Generated File[Dionysus.REP]
+
+
+Files Generated   : 16
+Documents Printed : 0
+
+Finished Output Generation At 10:13:09 AM On 8/29/2012

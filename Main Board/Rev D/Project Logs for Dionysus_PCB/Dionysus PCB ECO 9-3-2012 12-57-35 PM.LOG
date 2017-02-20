@@ -1,0 +1,27 @@
+Change Component Library : Designator=R3 Old Library=Main Library.IntLib New Library=Main LibraryX.SchLib
+Change Component Library : Designator=R4 Old Library=Main Library.IntLib New Library=Main LibraryX.SchLib
+Change Component Library : Designator=R14 Old Library=Main Library.IntLib New Library=Main LibraryX.SchLib
+Change Component Library : Designator=R15 Old Library=Main Library.IntLib New Library=Main LibraryX.SchLib
+Change Component Library : Designator=R16 Old Library=Main Library.IntLib New Library=Main LibraryX.SchLib
+Change Component Library : Designator=R18 Old Library=Main Library.IntLib New Library=Main LibraryX.SchLib
+Change Component Library : Designator=R22 Old Library=Main Library.IntLib New Library=Main LibraryX.SchLib
+Change Component Library : Designator=R23 Old Library=Main Library.IntLib New Library=Main LibraryX.SchLib
+Change Component Library : Designator=R24 Old Library=Main Library.IntLib New Library=Main LibraryX.SchLib
+Change Component Library : Designator=R25 Old Library=Main Library.IntLib New Library=Main LibraryX.SchLib
+Change Component Library : Designator=R26 Old Library=Main Library.IntLib New Library=Main LibraryX.SchLib
+Change Net Name : Old Net Name=PMODA0 New Net Name=PMODA1
+Change Net Name : Old Net Name=PMODA1 New Net Name=PMODA2
+Change Net Name : Old Net Name=PMODA2 New Net Name=PMODA3
+Change Net Name : Old Net Name=PMODA3 New Net Name=PMODA4
+Change Net Name : Old Net Name=PMODA4 New Net Name=PMODA7
+Change Net Name : Old Net Name=PMODA5 New Net Name=PMODA8
+Change Net Name : Old Net Name=PMODA6 New Net Name=PMODA9
+Change Net Name : Old Net Name=PMODA7 New Net Name=PMODA10
+Change Net Name : Old Net Name=PMODB0 New Net Name=PMODB1
+Change Net Name : Old Net Name=PMODB1 New Net Name=PMODB2
+Change Net Name : Old Net Name=PMODB2 New Net Name=PMODB3
+Change Net Name : Old Net Name=PMODB3 New Net Name=PMODB4
+Change Net Name : Old Net Name=PMODB4 New Net Name=PMODB7
+Change Net Name : Old Net Name=PMODB5 New Net Name=PMODB8
+Change Net Name : Old Net Name=PMODB6 New Net Name=PMODB9
+Change Net Name : Old Net Name=PMODB7 New Net Name=PMODB10

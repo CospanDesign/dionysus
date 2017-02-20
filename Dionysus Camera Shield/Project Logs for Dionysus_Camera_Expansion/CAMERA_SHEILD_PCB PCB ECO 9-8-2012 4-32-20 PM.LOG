@@ -1,0 +1,26 @@
+Added Component: Designator=C2(C_ERA-0402)
+Added Component: Designator=C3(C_ERA-0402)
+Added Component: Designator=C4(C_ERA-0402)
+Added Component: Designator=C5(C_ERA-0402)
+Added Component: Designator=C6(C_ERA-0402)
+Added Component: Designator=U2(SOT95P260X145-5L)
+Added Component: Designator=U3(SOT95P260X145-5L)
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=V3P3 Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=VA2P5 Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=NetC4_2 Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=V3P3 Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=VA2P8 Pin=C6-2
+Added Pin To Net: NetName=V3P3 Pin=U2-1
+Added Pin To Net: NetName=GND Pin=U2-2
+Added Pin To Net: NetName=V3P3 Pin=U2-3
+Added Pin To Net: NetName=NetC4_2 Pin=U2-4
+Added Pin To Net: NetName=VA2P5 Pin=U2-5
+Added Pin To Net: NetName=V3P3 Pin=U3-1
+Added Pin To Net: NetName=GND Pin=U3-2
+Added Pin To Net: NetName=V3P3 Pin=U3-3
+Added Pin To Net: NetName=VA2P8 Pin=U3-5

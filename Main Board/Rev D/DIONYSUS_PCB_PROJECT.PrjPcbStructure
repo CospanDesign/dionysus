@@ -1,0 +1,16 @@
+Record=SheetSymbol|SourceDocument=DIONYSUS_BLOCK_DIAGRAM.SchDoc|Designator=DIONYSUS_BUTTONS_LEDS|SchDesignator=DIONYSUS_BUTTONS_LEDS|FileName=DIONYSUS_BUTTONS_LEDS.SchDoc|SymbolType=Normal|RawFileName=DIONYSUS_BUTTONS_LEDS.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=DIONYSUS_BLOCK_DIAGRAM.SchDoc|Designator=DIONYSUS_FPGA|SchDesignator=DIONYSUS_FPGA|FileName=DIONYSUS_FPGA.SchDoc|SymbolType=Normal|RawFileName=DIONYSUS_FPGA.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=DIONYSUS_BLOCK_DIAGRAM.SchDoc|Designator=DIONYSUS_FPGA_EXPANSION|SchDesignator=DIONYSUS_FPGA_EXPANSION|FileName=DIONYSUS_FPGA_EXPANSION.SchDoc|SymbolType=Normal|RawFileName=DIONYSUS_FPGA_EXPANSION.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=DIONYSUS_BLOCK_DIAGRAM.SchDoc|Designator=DIONYSUS_POWER|SchDesignator=DIONYSUS_POWER|FileName=DIONYSUS_POWER.SchDoc|SymbolType=Normal|RawFileName=DIONYSUS_POWER.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=DIONYSUS_BLOCK_DIAGRAM.SchDoc|Designator=DIONYSUS_RAM|SchDesignator=DIONYSUS_RAM|FileName=DIONYSUS_RAM.SchDoc|SymbolType=Normal|RawFileName=DIONYSUS_RAM.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=DIONYSUS_BLOCK_DIAGRAM.SchDoc|Designator=DIONYSUS_SPI_FLASH|SchDesignator=DIONYSUS_SPI_FLASH|FileName=DIONYSUS_SPI_FLASH.SchDoc|SymbolType=Normal|RawFileName=DIONYSUS_SPI_FLASH.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=DIONYSUS_BLOCK_DIAGRAM.SchDoc|Designator=DIONYSUS_USB_COMM|SchDesignator=DIONYSUS_USB_COMM|FileName=DIONYSUS_USB_COMM.SchDoc|SymbolType=Normal|RawFileName=DIONYSUS_USB_COMM.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SubProject|ProjectPath=CD1_FPGA_PROJECT.PrjFpg
+Record=SubProject|ProjectPath=CD1_FPGA_PROJECT.PrjFpg
+Record=SubProject|ProjectPath=CD1_FPGA_PROJECT.PrjFpg
+Record=SubProject|ProjectPath=CD1_FPGA_PROJECT.PrjFpg
+Record=SubProject|ProjectPath=CD1_FPGA_PROJECT.PrjFpg
+Record=SubProject|ProjectPath=CD1_FPGA_PROJECT.PrjFpg
+Record=SubProject|ProjectPath=CD1_FPGA_PROJECT.PrjFpg
+Record=TopLevelDocument|FileName=DIONYSUS_BLOCK_DIAGRAM.SchDoc
+Record=FPGA_COMPONENT|BaseComponentDesignator=U1|DocumentName=DIONYSUS_FPGA.SchDoc|LibraryReference=XC6SLX9-3TQG144I|SubProjectPath=CD1_FPGA_PROJECT.PrjFpg|Configuration=CDS1|Description=IC FPAG SPARTAN 6 9K 144TQFP|NexusDeviceId=XC6SLX9-3TQG144I|SubPartUniqueId1=ESDDUDSL|SubPartDocPath1=DIONYSUS_FPGA.SchDoc|SubPartUniqueId2=MHDABBPD|SubPartDocPath2=DIONYSUS_FPGA.SchDoc|SubPartUniqueId3=ECBRIKSU|SubPartDocPath3=DIONYSUS_FPGA.SchDoc|SubPartUniqueId4=XATDUTIN|SubPartDocPath4=DIONYSUS_FPGA.SchDoc|SubPartUniqueId5=KVKYHMDP|SubPartDocPath5=DIONYSUS_FPGA.SchDoc|SubPartUniqueId6=IBNQTNDY|SubPartDocPath6=DIONYSUS_FPGA.SchDoc|SubPartUniqueId7=AFDAREFR|SubPartDocPath7=DIONYSUS_FPGA.SchDoc

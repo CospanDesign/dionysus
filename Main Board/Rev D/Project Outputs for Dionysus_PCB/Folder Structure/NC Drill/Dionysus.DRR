@@ -1,0 +1,17 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: Dionysus.PcbDoc   3/25/2013  11:00:11 AM
+---------------------------------------------------------------------------
+
+Layer Pair : Component Side to Solder Side
+ASCII RoundHoles File : Dionysus.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        10mil (0.254mm)          Round          292              36.25 Inch (920.77 mm)
+T2        40mil (1.016mm)          Round          61               9.49 Inch (240.97 mm)
+T3        125mil (3.175mm)         Round          4                9.70 Inch (246.38 mm)
+T4        70mil (1.778mm)          Round          2         NPTH   0.18 Inch (4.50 mm)
+---------------------------------------------------------------------------
+Totals                                            359              55.61 Inch (1412.62 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

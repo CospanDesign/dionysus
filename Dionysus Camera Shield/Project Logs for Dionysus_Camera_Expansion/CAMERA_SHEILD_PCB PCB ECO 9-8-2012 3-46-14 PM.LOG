@@ -1,0 +1,144 @@
+Removed Pin From Net: NetName=V5P0 Pin=J4-4
+Removed Pin From Net: NetName=V3P3 Pin=J4-5
+Removed Pin From Net: NetName=V5P0 Pin=J4-7
+Added Component: Designator=C1(C_ERA-0402)
+Added Component: Designator=C2(C_ERA-0805)
+Added Component: Designator=C3(C_ERA-0805)
+Added Component: Designator=C4(C_ERA-0805)
+Added Component: Designator=J5(HDR_2X17_1.27MM RECEPTICAL)
+Added Component: Designator=J6(HDR_1X3)
+Added Component: Designator=J7(HDR_1X2)
+Added Component: Designator=R1(ERA-0402)
+Added Component: Designator=R2(ERA-0402)
+Added Component: Designator=R3(ERA-0402)
+Added Component: Designator=R4(ERA-0402)
+Added Component: Designator=R5(ERA-0402)
+Added Component: Designator=R6(ERA-0402)
+Added Component: Designator=R7(ERA-0402)
+Added Component: Designator=U1(LCC_OSC_24MHZ)
+Added Component: Designator=U2(SOT230P700X180-4N)
+Added Component: Designator=U3(SOT230P700X180-4N)
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=GND Pin=J5-4
+Added Pin To Net: NetName=GND Pin=J5-14
+Added Pin To Net: NetName=GND Pin=J5-20
+Added Pin To Net: NetName=GND Pin=J5-22
+Added Pin To Net: NetName=V3P3 Pin=J5-24
+Added Pin To Net: NetName=V3P3 Pin=J5-25
+Added Pin To Net: NetName=V3P3 Pin=J5-26
+Added Pin To Net: NetName=GND Pin=J5-28
+Added Pin To Net: NetName=GND Pin=J5-33
+Added Pin To Net: NetName=GND Pin=J5-34
+Added Pin To Net: NetName=V3P3 Pin=J6-2
+Added Pin To Net: NetName=GND Pin=J7-1
+Added Pin To Net: NetName=V3P3 Pin=R2-1
+Added Pin To Net: NetName=V3P3 Pin=R3-1
+Added Pin To Net: NetName=GND Pin=R7-2
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=GND Pin=U2-1
+Added Pin To Net: NetName=V5P0 Pin=U2-3
+Added Pin To Net: NetName=V5P0 Pin=U3-3
+Change Net Name : Old Net Name=BLUE New Net Name=I2C_SMBA
+Added Pin To Net: NetName=CAM_OE Pin=J3-2
+Added Pin To Net: NetName=CAM_OE Pin=J5-12
+Added Net: Name=CAM_OE
+Added Pin To Net: NetName=CAM_RST Pin=J3-3
+Added Pin To Net: NetName=CAM_RST Pin=J5-10
+Added Net: Name=CAM_RST
+Added Pin To Net: NetName=DCMI_D0 Pin=J1-4
+Added Pin To Net: NetName=DCMI_D0 Pin=J5-23
+Added Net: Name=DCMI_D0
+Added Pin To Net: NetName=DCMI_D1 Pin=J1-5
+Added Pin To Net: NetName=DCMI_D1 Pin=J5-21
+Added Net: Name=DCMI_D1
+Added Pin To Net: NetName=DCMI_D2 Pin=J1-6
+Added Pin To Net: NetName=DCMI_D2 Pin=J5-19
+Added Net: Name=DCMI_D2
+Added Pin To Net: NetName=DCMI_D3 Pin=J1-7
+Added Pin To Net: NetName=DCMI_D3 Pin=J5-17
+Added Net: Name=DCMI_D3
+Added Pin To Net: NetName=DCMI_D4 Pin=J1-8
+Added Pin To Net: NetName=DCMI_D4 Pin=J5-15
+Added Net: Name=DCMI_D4
+Added Pin To Net: NetName=DCMI_D5 Pin=J2-1
+Added Pin To Net: NetName=DCMI_D5 Pin=J5-13
+Added Net: Name=DCMI_D5
+Added Pin To Net: NetName=DCMI_D6 Pin=J2-2
+Added Pin To Net: NetName=DCMI_D6 Pin=J5-11
+Added Net: Name=DCMI_D6
+Added Pin To Net: NetName=DCMI_D7 Pin=J2-3
+Added Pin To Net: NetName=DCMI_D7 Pin=J5-9
+Added Net: Name=DCMI_D7
+Added Pin To Net: NetName=DCMI_D8 Pin=J2-4
+Added Pin To Net: NetName=DCMI_D8 Pin=J5-7
+Added Net: Name=DCMI_D8
+Added Pin To Net: NetName=DCMI_D9 Pin=J2-5
+Added Pin To Net: NetName=DCMI_D9 Pin=J5-5
+Added Net: Name=DCMI_D9
+Added Pin To Net: NetName=DCMI_D10 Pin=J2-6
+Added Pin To Net: NetName=DCMI_D10 Pin=J5-3
+Added Net: Name=DCMI_D10
+Added Pin To Net: NetName=DCMI_D11 Pin=J3-1
+Added Pin To Net: NetName=DCMI_D11 Pin=J5-1
+Added Net: Name=DCMI_D11
+Added Pin To Net: NetName=DCMI_HSYNC Pin=J1-1
+Added Pin To Net: NetName=DCMI_HSYNC Pin=J5-29
+Added Net: Name=DCMI_HSYNC
+Added Pin To Net: NetName=DCMI_PIXCLK Pin=J1-3
+Added Pin To Net: NetName=DCMI_PIXCLK Pin=J5-27
+Added Net: Name=DCMI_PIXCLK
+Added Pin To Net: NetName=DCMI_VSYNC Pin=J1-2
+Added Pin To Net: NetName=DCMI_VSYNC Pin=J5-31
+Added Net: Name=DCMI_VSYNC
+Added Pin To Net: NetName=I2C_SCL Pin=J5-8
+Added Pin To Net: NetName=I2C_SCL Pin=R2-2
+Added Pin To Net: NetName=I2C_SCL Pin=R5-2
+Added Net: Name=I2C_SCL
+Added Pin To Net: NetName=I2C_SDA Pin=J5-6
+Added Pin To Net: NetName=I2C_SDA Pin=R3-2
+Added Pin To Net: NetName=I2C_SDA Pin=R4-2
+Added Net: Name=I2C_SDA
+Added Pin To Net: NetName=NetC4_2 Pin=C4-2
+Added Pin To Net: NetName=NetC4_2 Pin=R6-2
+Added Pin To Net: NetName=NetC4_2 Pin=R7-1
+Added Pin To Net: NetName=NetC4_2 Pin=U3-1
+Added Net: Name=NetC4_2
+Added Pin To Net: NetName=NetJ5_2 Pin=J5-2
+Added Pin To Net: NetName=NetJ5_2 Pin=U1-3
+Added Net: Name=NetJ5_2
+Added Pin To Net: NetName=NetJ6_3 Pin=J6-3
+Added Pin To Net: NetName=NetJ6_3 Pin=J7-2
+Added Net: Name=NetJ6_3
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=U1-1
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=V1P8 Pin=J5-30
+Added Pin To Net: NetName=V1P8 Pin=J5-32
+Added Net: Name=V1P8
+Added Pin To Net: NetName=V2P5 Pin=C1-2
+Added Pin To Net: NetName=V2P5 Pin=R1-2
+Added Pin To Net: NetName=V2P5 Pin=U1-4
+Added Net: Name=V2P5
+Added Pin To Net: NetName=V2P8 Pin=J5-16
+Added Pin To Net: NetName=V2P8 Pin=J5-18
+Added Net: Name=V2P8
+Added Pin To Net: NetName=V3P3_DIONYSUS Pin=J2-8
+Added Pin To Net: NetName=V3P3_DIONYSUS Pin=J4-5
+Added Pin To Net: NetName=V3P3_DIONYSUS Pin=J6-1
+Added Net: Name=V3P3_DIONYSUS
+Added Pin To Net: NetName=VA2P5 Pin=C2-2
+Added Pin To Net: NetName=VA2P5 Pin=U2-2
+Added Net: Name=VA2P5
+Added Pin To Net: NetName=VA2P8 Pin=C3-2
+Added Pin To Net: NetName=VA2P8 Pin=R6-1
+Added Pin To Net: NetName=VA2P8 Pin=U3-2
+Added Net: Name=VA2P8
+Added Class: Name=Camera_Interface
+Added Class: Name=Headers
+Added Class: Name=Power
+Added Room: Name=Camera_Interface
+Added Room: Name=Headers
+Added Room: Name=Power

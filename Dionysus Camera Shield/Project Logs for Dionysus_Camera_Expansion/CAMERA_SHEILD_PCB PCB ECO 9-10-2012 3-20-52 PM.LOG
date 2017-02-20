@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=J4 Old Footprint=HDR_1X8 New Footprint=HDR_1X6
+Change Component Comment : Designator=J4 Old Comment=J_HDR1X8_THRHOLE_VERT New Comment=J_HDR1X6_THRHOLE_VERT
+Change Component Comment : Designator=R2 Old Comment=R_0402_2.2K New Comment=2.2k Ohms
+Change Component Comment : Designator=R3 Old Comment=R_0402_2.2K New Comment=2.2k Ohms

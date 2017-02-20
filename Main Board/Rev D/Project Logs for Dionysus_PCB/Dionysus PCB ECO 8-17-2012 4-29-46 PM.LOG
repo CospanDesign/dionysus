@@ -1,0 +1,3 @@
+Added Component: Designator=R25(ERA-0402)
+Added Pin To Net: NetName=V3P3 Pin=R25-1
+Added Pin To Net: NetName=TDO Pin=R25-2

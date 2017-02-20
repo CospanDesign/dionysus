@@ -1,0 +1,9 @@
+Added Component: Designator=LED1(DIOM1005X07L_GREEN)
+Added Component: Designator=R8(ERA-0402)
+Added Pin To Net: NetName=GND Pin=R8-2
+Added Pin To Net: NetName=NetJ3_4 Pin=J3-4
+Added Pin To Net: NetName=NetJ3_4 Pin=LED1-1
+Added Net: Name=NetJ3_4
+Added Pin To Net: NetName=NetLED1_2 Pin=LED1-2
+Added Pin To Net: NetName=NetLED1_2 Pin=R8-1
+Added Net: Name=NetLED1_2

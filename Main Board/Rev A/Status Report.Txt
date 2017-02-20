@@ -1,0 +1,16 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 10:56:08 AM On 3/25/2013
+
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [Dionysus.PcbDoc]
+   Generated File[Dionysus.TXT]
+   Generated File[Dionysus.LDP]
+   Generated File[Dionysus.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 10:56:09 AM On 3/25/2013

@@ -1,0 +1,127 @@
+Designator Footprint               Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation Comment        
+
+R25        ERA-0402              1188mil   1752.346mil       1188mil   1752.346mil       1188mil   1730.693mil  T         90.00 R_0402_10.0K   
+R24        ERA-0402          1526.346mil       1435mil   1526.346mil       1435mil   1504.693mil       1435mil  T        360.00 R_0402_10.0K   
+R29        ERA-0402               510mil       1759mil        510mil       1759mil    488.346mil       1759mil  T        360.00 R_0402_332.0   
+LED_POWER  DIOM1005X07L_ORANGE        640mil       1759mil        640mil       1759mil    618.346mil       1759mil  T        180.00 LED_ORN_0402   
+J10        HDR_1X3                213mil       1695mil        113mil       1695mil        113mil       1695mil  T        360.00 J_HDR1X3_JUMPER_SELECT
+J9         PJ-002BH-SMT       191.079mil    451.473mil    191.079mil    451.473mil    311.157mil    656.197mil  T        360.00 Barrel Jack    
+R28        ERA-0402              1326mil       1221mil       1326mil       1221mil   1304.347mil       1221mil  T        360.00 0.0 Ohms       
+S4         TACTILE_BUTTON_5X5       2867mil        191mil       2867mil        191mil   2794.165mil    277.614mil  T          0.00 S_TACTILE_5X5  
+R26        ERA-0402          2621.425mil    203.882mil   2621.425mil    203.882mil   2621.425mil    182.228mil  T         90.00 R_0402_10.0K   
+C75        C_ERA-0402        2670.772mil     205.26mil   2670.772mil     205.26mil   2670.772mil    185.575mil  T         90.00 0.1uF          
+S3         TACTILE_BUTTON_5X5   3266.614mil        191mil   3266.614mil        191mil    3193.78mil    277.614mil  T          0.00 S_TACTILE_5X5  
+C74        C_ERA-0402            3070mil    257.315mil       3070mil    257.315mil       3070mil     237.63mil  T         90.00 0.1uF          
+Y1         LCCS220P500X320X105-4L        419mil       1366mil        419mil       1366mil    491.835mil   1409.307mil  T        180.00 12.00MHz Crystal
+U8         SOIC127P600X135-8L       1229mil       1480mil       1229mil       1480mil    1136.48mil       1555mil  T          0.00 U_16MBIT_SPI_FLASH
+U7         TSOP65P640X120-8L        262mil       1558mil        262mil       1558mil    373.221mil   1519.614mil  T        180.00 EEPROM         
+U6         LQFP-64_N              775mil        984mil        775mil        984mil    556.496mil   1131.638mil  T        360.00 U_FT2232H-LQFP64
+U5         TSOP80P1180X120-54N   3180.047mil   1008.732mil   3180.047mil   1008.732mil   2959.575mil   1418.181mil  T        360.00 64MBits SDRAM  
+U2         SMD_OSC_12MHZ         2768mil        734mil       2768mil        734mil   2840.835mil    619.827mil  T         90.00 OSC 100.000 MHZ SMD
+U1         TQG144_N              1993mil        916mil       1993mil        916mil   1648.512mil    500.646mil  T         90.00 XC6SLX9-3TQG144I
+BUTTON 0   TACTILE_BUTTON_5X5        705mil        191mil        705mil        191mil    632.165mil    277.614mil  T          0.00 S_TACTILE_5X5  
+BUTTON 1   TACTILE_BUTTON_5X5       1105mil        191mil       1105mil        191mil   1032.165mil    277.614mil  T          0.00 S_TACTILE_5X5  
+R20        ERA-0402               552mil    639.654mil        552mil    639.654mil        552mil    661.307mil  T        270.00 0.0 Ohms       
+R18        ERA-0402              1492mil        493mil       1492mil        493mil   1470.347mil        493mil  T        360.00 R_0402_10.0K   
+R17        ERA-0402            473.22mil   1570.795mil    473.221mil   1570.795mil    494.874mil   1570.795mil  T        180.00 2.2k Ohms      
+R16        ERA-0402               718mil       1338mil        718mil       1338mil    739.654mil       1338mil  T        180.00 R_0402_10.0K   
+R15        ERA-0402               517mil       1480mil        517mil       1480mil    495.346mil       1480mil  T        360.00 R_0402_10.0K   
+R14        ERA-0402               613mil       1522mil        613mil       1522mil        613mil   1500.347mil  T         90.00 R_0402_10.0K   
+R13        ERA-0402               413mil       1178mil        413mil       1178mil        413mil   1156.347mil  T         90.00 R_0402_12.0K   
+R12        ERA-0402           431.346mil        739mil    431.346mil        739mil    409.693mil        739mil  T        360.00 1.0k Ohms      
+R11        ERA-0402          3516.653mil        940mil   3516.653mil        940mil       3495mil        940mil  T        360.00 R_0402_33      
+R10        ERA-0402              1492mil        443mil       1492mil        443mil   1513.653mil        443mil  T        180.00 0.0 Ohms       
+R9         ERA-0402              2526mil        564mil       2526mil        564mil   2547.653mil        564mil  T        180.00 4.7k Ohms      
+R8         ERA-0402              2526mil        611mil       2526mil        611mil   2547.653mil        611mil  T        180.00 4.7k Ohms      
+R7         ERA-0402              2593mil   1219.346mil       2593mil   1219.346mil       2593mil   1197.693mil  T         90.00 R_0402_332.0   
+R4         ERA-0402               541mil    125.653mil        541mil    125.654mil        541mil    147.307mil  T        270.00 R_0402_10.0K   
+R3         ERA-0402               861mil        257mil        861mil        257mil        861mil    235.346mil  T         90.00 R_0402_10.0K   
+R2         ERA-0402              1278mil    550.654mil       1278mil    550.654mil       1278mil    572.307mil  T        270.00 R_0402_332.0   
+R1         ERA-0402               601mil        404mil        601mil        404mil    579.346mil        404mil  T        360.00 R_0402_332.0   
+LED3       DIOM1005X07L_GREEN       2650mil       1178mil       2650mil       1178mil       2650mil   1199.653mil  T         90.00 LED_GRN_0402   
+LED 1      DIOM1005X07L_YELLOW       1093mil        404mil       1093mil        404mil   1071.347mil        404mil  T        180.00 LED_YLW_0402   
+LED 0      DIOM1005X07L_BLUE        696mil        404mil        696mil        404mil    717.654mil        404mil  T        360.00 LED_BLUE_0402  
+J7         PMOD                  3658mil       1504mil       3608mil       1754mil       3608mil       1754mil  T        270.00 PMOD           
+J6         HDR_1X8_-_FEMALE       1298mil       2004mil       1648mil       2004mil       1648mil       2004mil  T        180.00 J_HDR1X8_THRHOLE_VERT_RECPT
+J5         HDR_1X6_-_FEMALE       2258mil        104mil       2508mil        104mil       2508mil        104mil  T        180.00 J_HDR1X6_THRHOLE_VERT_FEMALE
+J4         HDR_1X8_-_FEMALE       2158mil       2004mil       2508mil       2004mil       2508mil       2004mil  T        180.00 J_HDR1X8_THRHOLE_VERT_RECPT
+J2         PMOD                  3658mil        604mil       3608mil        854mil       3608mil        854mil  T        270.00 PMOD           
+J1         HDR_1X6                558mil       2004mil        808mil       2004mil        808mil       2004mil  T        180.00 J_HDR1X6_THRHOLE_VERT
+C67        C_ERA-0402            1407mil       1535mil       1407mil       1535mil       1407mil   1515.315mil  T         90.00 4.7uF          
+C66        C_ERA-0402             482mil       1061mil        482mil       1061mil        482mil   1041.315mil  T         90.00 0.1uF          
+C65        C_ERA-0402             441mil       1061mil        441mil       1061mil        441mil   1041.315mil  T         90.00 4.7uF          
+C64        C_ERA-0402             441mil        952mil        441mil        952mil        441mil    932.315mil  T         90.00 0.1uF          
+C63        C_ERA-0402             483mil        952mil        483mil        952mil        483mil    932.315mil  T         90.00 4.7uF          
+C62        C_ERA-0402             999mil       1213mil        999mil       1213mil   1018.685mil       1213mil  T        180.00 4.7uF          
+C61        C_ERA-0402             576mil       1227mil        576mil       1227mil    556.315mil       1227mil  T        360.00 0.1uF          
+C60        C_ERA-0402            1062mil        895mil       1062mil        895mil       1062mil    875.315mil  T         90.00 0.1uF          
+C59        C_ERA-0402             443mil        872mil        443mil        872mil        443mil    852.315mil  T         90.00 0.1uF          
+C58        C_ERA-0402             938mil       1324mil        938mil       1324mil    957.685mil       1324mil  T        180.00 4.7uF          
+C57        C_ERA-0402             938mil       1280mil        938mil       1280mil    957.685mil       1280mil  T        180.00 0.1uF          
+C56        C_ERA-0402             833mil       1281mil        833mil       1281mil    852.685mil       1281mil  T        180.00 0.1uF          
+C55        C_ERA-0402             923mil        688mil        923mil        688mil    942.685mil        688mil  T        180.00 0.1uF          
+C54        C_ERA-0402            1072mil       1064mil       1072mil       1064mil       1072mil   1083.685mil  T        270.00 0.1uF          
+C53        C_ERA-0402             736mil        687mil        736mil        687mil    755.685mil        687mil  T        180.00 0.1uF          
+C52        C_ERA-0402              69mil       1558mil         69mil       1558mil         69mil   1577.685mil  T        270.00 0.1uF          
+C51        C_ERA-0402             262mil   1365.685mil        262mil   1365.685mil        262mil    1385.37mil  T        270.00 22pF           
+C50        C_ERA-0402             576mil   1375.315mil        576mil   1375.315mil        576mil    1355.63mil  T         90.00 22pF           
+C49        C_ERA-0402        3495.071mil   1040.433mil   3495.071mil   1040.433mil   3495.071mil   1020.748mil  T         90.00 4.7uF          
+C48        C_ERA-0402            3480mil       1215mil       3480mil       1215mil       3480mil   1195.315mil  T         90.00 0.1uF          
+C47        C_ERA-0402        3537.315mil   1040.433mil   3537.315mil   1040.433mil   3537.315mil   1020.748mil  T         90.00 0.1uF          
+C46        C_ERA-0402        2884.402mil   1216.024mil   2884.402mil   1216.024mil   2884.402mil   1235.709mil  T        270.00 0.1uF          
+C45        C_ERA-0402        2884.536mil   1305.598mil   2884.536mil   1305.598mil   2884.536mil   1285.913mil  T         90.00 0.1uF          
+C44        C_ERA-0402        2819.756mil   1040.024mil   2819.756mil   1040.024mil   2819.756mil   1059.709mil  T        270.00 0.1uF          
+C43        C_ERA-0402        3035.024mil    534.732mil   3035.024mil    534.732mil   3054.709mil    534.732mil  T        180.00 0.1uF          
+C42        C_ERA-0402         2867.89mil   1040.024mil    2867.89mil   1040.024mil    2867.89mil   1059.709mil  T        270.00 0.1uF          
+C41        C_ERA-0402        3068.205mil   1484.606mil   3068.205mil   1484.606mil    3087.89mil   1484.606mil  T        180.00 4.7uF          
+C32        C_ERA-0402            3708mil   1141.315mil       3708mil   1141.315mil       3708mil    1121.63mil  T         90.00 0.1uF          
+C31        C_ERA-0402            3608mil   1141.315mil       3608mil   1141.315mil       3608mil    1121.63mil  T         90.00 0.1uF          
+C30        C_ERA-0402        3632.685mil        234mil   3632.685mil        234mil       3613mil        234mil  T        360.00 0.1uF          
+C29        C_ERA-0402            3498mil    299.315mil       3498mil    299.315mil       3498mil     279.63mil  T         90.00 0.1uF          
+C28        C_ERA-0402         998.315mil       1919mil    998.315mil       1919mil       1018mil       1919mil  T        180.00 0.1uF          
+C27        C_ERA-0402            1958mil        384mil       1958mil        384mil       1958mil    364.315mil  T         90.00 4.7uF          
+C26        C_ERA-0402            1698mil        403mil       1698mil        403mil   1678.315mil        403mil  T        360.00 0.47uF         
+C25        C_ERA-0402        2239.063mil        385mil   2239.063mil        385mil   2239.063mil    365.315mil  T         90.00 0.47uF         
+C24        C_ERA-0402        2715.338mil    534.661mil   2715.338mil    534.661mil   2735.023mil    534.661mil  T        180.00 0.1uF          
+C23        C_ERA-0402            2530mil       1132mil       2530mil       1132mil       2530mil   1151.685mil  T        270.00 4.7uF          
+C22        C_ERA-0402            2487mil       1132mil       2487mil       1132mil       2487mil   1151.685mil  T        270.00 0.47uF         
+C21        C_ERA-0402            2526mil    669.937mil       2526mil    669.937mil   2545.685mil    669.937mil  T        180.00 0.47uF         
+C20        C_ERA-0402        1746.937mil       1449mil   1746.937mil       1449mil   1746.937mil   1468.685mil  T        270.00 4.7uF          
+C19        C_ERA-0402            2268mil       1419mil       2268mil       1419mil   2248.315mil       1419mil  T        360.00 0.47uF         
+C18        C_ERA-0402            2043mil       1449mil       2043mil       1449mil       2043mil   1468.685mil  T        270.00 4.7uF          
+C17        C_ERA-0402         2535.74mil    843.315mil    2535.74mil    843.315mil   2555.425mil    843.315mil  T        180.00 4.7uF          
+C16        C_ERA-0402            2003mil        384mil       2003mil        384mil       2003mil    364.315mil  T         90.00 4.7uF          
+C15        C_ERA-0402            1463mil        911mil       1463mil        911mil   1443.315mil        911mil  T        360.00 0.47uF         
+C14        C_ERA-0402        2081.583mil       1449mil   2081.583mil       1449mil   2081.583mil   1468.685mil  T        270.00 0.47uF         
+C13        C_ERA-0402            2048mil        384mil       2048mil        384mil       2048mil    364.315mil  T         90.00 4.7uF          
+C12        C_ERA-0402            2515mil    913.685mil       2515mil    913.685mil       2515mil     933.37mil  T        270.00 4.7uF          
+C11        C_ERA-0402        2337.488mil        385mil   2337.488mil        385mil   2337.488mil    365.315mil  T         90.00 4.7uF          
+C10        C_ERA-0402        1983.039mil   1463.039mil   1983.039mil   1463.039mil   1963.354mil   1463.039mil  T        360.00 4.7uF          
+C9         C_ERA-0402            2551mil    912.685mil       2551mil    912.685mil       2551mil     932.37mil  T        270.00 4.7uF          
+C8         C_ERA-0402            1445mil        857mil       1445mil        857mil       1445mil    837.315mil  T         90.00 4.7uF          
+C7         C_ERA-0402            1479mil        857mil       1479mil        857mil       1479mil    837.315mil  T         90.00 4.7uF          
+C6         C_ERA-0402        1983.039mil   1428.039mil   1983.039mil   1428.039mil   1963.354mil   1428.039mil  T          0.00 0.47uF         
+C5         C_ERA-0402        1453.315mil    748.677mil   1453.315mil    748.677mil    1433.63mil    748.677mil  T        360.00 0.47uF         
+C4         C_ERA-0402            1463mil        946mil       1463mil        946mil   1443.315mil        946mil  T          0.00 0.47uF         
+C3         C_ERA-0402        1451.094mil   1010.906mil   1451.094mil   1010.906mil   1431.409mil   1010.906mil  T          0.00 4.7uF          
+C2         C_ERA-0402             495mil    123.685mil        495mil    123.685mil        495mil     143.37mil  T        270.00 0.1uF          
+C1         C_ERA-0402         908.346mil    258.315mil    908.346mil    258.315mil    908.346mil     238.63mil  T         90.00 0.1uF          
+C33        C_ERA-0805         724.748mil       1622mil    724.748mil       1622mil    724.748mil   1584.599mil  T         90.00 10uF           
+C34        C_ERA-0805         992.748mil   1617.401mil    992.748mil   1617.401mil    992.748mil       1580mil  T         90.00 22uF           
+C35        C_ERA-0402         791.748mil       1622mil    791.748mil       1622mil    791.748mil   1602.315mil  T         90.00 0.1uF          
+C36        C_ERA-0805            2710mil       1732mil       2710mil       1732mil       2710mil   1769.401mil  T        270.00 10uF           
+C37        C_ERA-0402            2647mil   1730.685mil       2647mil   1730.685mil       2647mil    1750.37mil  T        270.00 0.1uF          
+C38        C_ERA-0805            2435mil       1736mil       2435mil       1736mil       2435mil   1773.401mil  T        270.00 22uF           
+L1         INDNRH1212         883.748mil       1757mil    883.748mil       1757mil    836.504mil       1757mil  T        360.00 1.0uH          
+L2         INDNRH1212            2550mil       1596mil       2550mil       1596mil   2597.244mil       1596mil  T        180.00 1.0uH          
+R5         ERA-0402               941mil       1498mil        941mil       1498mil        941mil   1519.653mil  T        270.00 R_0402_249K    
+R6         ERA-0402           864.346mil   1471.653mil    864.346mil   1471.653mil    864.346mil       1450mil  T         90.00 R_0402_39.2K   
+R19        ERA-0402              2493mil       1856mil       2493mil       1856mil       2493mil   1834.347mil  T         90.00 R_0402_64.9K   
+R21        ERA-0402              2570mil       1882mil       2570mil       1882mil       2570mil   1903.653mil  T        270.00 R_0402_39.2K   
+U3         QFN50P200X200X80-8L    873.748mil       1600mil    873.748mil       1600mil     844.22mil   1556.693mil  T        360.00 TPS62080       
+U4         QFN50P200X200X80-8L   2560.252mil       1754mil   2560.252mil       1754mil    2589.78mil   1797.307mil  T        180.00 TPS62080       
+J8         MICRO_USB_RECEPTICAL    122.343mil        992mil        175mil        992mil        175mil   1043.181mil  T          0.00 USB Mini Receptical
+R22        ERA-0402              1449mil       1254mil       1449mil       1254mil   1427.347mil       1254mil  T          0.00 R_0402_10.0K   
+R23        ERA-0402          1526.346mil       1474mil   1526.346mil       1474mil   1504.693mil       1474mil  T        360.00 R_0402_10.0K   
+J3         HDR_1X6_-_FEMALE       1558mil        104mil       1808mil        104mil       1808mil        104mil  T        180.00 J_HDR1X6_THRHOLE_VERT_FEMALE
+

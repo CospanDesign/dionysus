@@ -1,0 +1,33 @@
+Change Component Footprint: Designator=R1 Old Footprint=ERA-0402 New Footprint=R_0402
+Change Component Comment : Designator=R1 Old Comment=3.3k Ohms New Comment=R_0402_7.87K
+Added Component: Designator=U1(TCM8230MD)
+Added Component: Designator=U4(SOT23-6)
+Added Pin To Net: NetName=V2P8 Pin=U1-1
+Added Pin To Net: NetName=I2C_SCL Pin=U1-4
+Added Pin To Net: NetName=I2C_SDA Pin=U1-5
+Added Pin To Net: NetName=V1P6 Pin=U1-6
+Added Pin To Net: NetName=GND Pin=U1-7
+Added Pin To Net: NetName=CAM_VSYNC Pin=U1-8
+Added Pin To Net: NetName=CAM_HSYNC Pin=U1-9
+Added Pin To Net: NetName=CAM_PIXCLK Pin=U1-10
+Added Pin To Net: NetName=CAM_D0 Pin=U1-11
+Added Pin To Net: NetName=CAM_D1 Pin=U1-12
+Added Pin To Net: NetName=CAM_D2 Pin=U1-13
+Added Pin To Net: NetName=CAM_D3 Pin=U1-14
+Added Pin To Net: NetName=GND Pin=U1-15
+Added Pin To Net: NetName=V2P8 Pin=U1-16
+Added Pin To Net: NetName=CAM_D4 Pin=U1-17
+Added Pin To Net: NetName=CAM_D5 Pin=U1-18
+Added Pin To Net: NetName=CAM_D6 Pin=U1-19
+Added Pin To Net: NetName=CAM_D7 Pin=U1-20
+Added Pin To Net: NetName=CAM_CLK_IN Pin=U4-1
+Added Pin To Net: NetName=GND Pin=U4-2
+Added Pin To Net: NetName=CAM_RST Pin=U4-3
+Added Pin To Net: NetName=V2P8 Pin=U4-5
+Change Net Name : Old Net Name=V1P6 New Net Name=V1P5
+Added Pin To Net: NetName=C\A\M\_\R\S\T\_\V\2\P\8\ Pin=U1-3
+Added Pin To Net: NetName=C\A\M\_\R\S\T\_\V\2\P\8\ Pin=U4-4
+Added Net: Name=C\A\M\_\R\S\T\_\V\2\P\8\
+Added Pin To Net: NetName=CAM_CLK_IN_V2P8 Pin=U1-2
+Added Pin To Net: NetName=CAM_CLK_IN_V2P8 Pin=U4-6
+Added Net: Name=CAM_CLK_IN_V2P8

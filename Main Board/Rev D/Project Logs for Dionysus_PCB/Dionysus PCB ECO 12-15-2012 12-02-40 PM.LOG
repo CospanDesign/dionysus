@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=GND Pin=R1-1
+Removed Pin From Net: NetName=NetLED 0_2 Pin=R1-2
+Removed Pin From Net: NetName=GND Pin=R2-1
+Removed Pin From Net: NetName=NetLED 1_2 Pin=R2-2
+Change Component DesignItemId : Designator=R1 Old DesignItemId=R_0402_332.0 New DesignItemId=R_0402_1.0K
+Change Component DesignItemId : Designator=R2 Old DesignItemId=R_0402_332.0 New DesignItemId=R_0402_1.0K
+Change Component DesignItemId : Designator=R7 Old DesignItemId=R_0402_332.0 New DesignItemId=R_0402_1.0K
+Change Component DesignItemId : Designator=R29 Old DesignItemId=R_0402_332.0 New DesignItemId=R_0402_1.0K
+Change Component Comment : Designator=R1 Old Comment=R_0402_332.0 New Comment=1.0k Ohms
+Change Component Comment : Designator=R2 Old Comment=R_0402_332.0 New Comment=1.0k Ohms
+Change Component Comment : Designator=R7 Old Comment=R_0402_332.0 New Comment=1.0k Ohms
+Change Component Comment : Designator=R29 Old Comment=R_0402_332.0 New Comment=1.0k Ohms
+Change Component Description : Designator=R1 Old Description=RES 332 OHM 1/16W 1% 0402 SMD New Description=RES 1.00K OHM 1/16W 1% 0402 SMD
+Change Component Description : Designator=R2 Old Description=RES 332 OHM 1/16W 1% 0402 SMD New Description=RES 1.00K OHM 1/16W 1% 0402 SMD
+Change Component Description : Designator=R7 Old Description=RES 332 OHM 1/16W 1% 0402 SMD New Description=RES 1.00K OHM 1/16W 1% 0402 SMD
+Change Component Description : Designator=R29 Old Description=RES 332 OHM 1/16W 1% 0402 SMD New Description=RES 1.00K OHM 1/16W 1% 0402 SMD
+Change Component Library : Designator=R1 Old Library=Main LibraryX.SchLib New Library=Main Library.IntLib
+Change Component Library : Designator=R2 Old Library=Main LibraryX.SchLib New Library=Main Library.IntLib
+Change Component Library : Designator=R7 Old Library=Main LibraryX.SchLib New Library=Main Library.IntLib
+Change Component Library : Designator=R29 Old Library=Main LibraryX.SchLib New Library=Main Library.IntLib
+Added Pin To Net: NetName=NetLED 0_2 Pin=R1-1
+Added Pin To Net: NetName=GND Pin=R1-2
+Added Pin To Net: NetName=NetLED 1_2 Pin=R2-1
+Added Pin To Net: NetName=GND Pin=R2-2

@@ -1,0 +1,11 @@
+Change Component Footprint: Designator=C2 Old Footprint=C_ERA-0402 New Footprint=C_0402
+Change Component Footprint: Designator=C3 Old Footprint=C_ERA-0402 New Footprint=C_0402
+Added Component: Designator=C7(C_0402)
+Added Component: Designator=C8(C_0402)
+Added Component: Designator=C9(C_0402)
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=V2P8 Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=V1P5 Pin=C8-2
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=V2P8 Pin=C9-2

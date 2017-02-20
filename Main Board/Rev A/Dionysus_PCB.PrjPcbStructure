@@ -1,0 +1,15 @@
+Record=TopLevelDocument|FileName=Dionysus_Main.SchDoc
+Record=SheetSymbol|Record=SheetSymbol|SourceDocument=Dionysus_Main.SchDoc|Designator=Buttons_LEDs|SchDesignator=Buttons_LEDs|FileName=Dionysus_Buttons_LEDs.SchDoc|SymbolType=Normal|RawFileName=Dionysus_Buttons_LEDs.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|Record=SheetSymbol|SourceDocument=Dionysus_Main.SchDoc|Designator=FPGA|SchDesignator=FPGA|FileName=Dionysus_FPGA.SchDoc|SymbolType=Normal|RawFileName=Dionysus_FPGA.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|Record=SheetSymbol|SourceDocument=Dionysus_Main.SchDoc|Designator=FPGA_Expansion|SchDesignator=FPGA_Expansion|FileName=Dionysus_FPGA_Expansion.SchDoc|SymbolType=Normal|RawFileName=Dionysus_FPGA_Expansion.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|Record=SheetSymbol|SourceDocument=Dionysus_Main.SchDoc|Designator=FTDI_Comm|SchDesignator=FTDI_Comm|FileName=Dionysus_FTDI_Comm.SchDoc|SymbolType=Normal|RawFileName=Dionysus_FTDI_Comm.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|Record=SheetSymbol|SourceDocument=Dionysus_Main.SchDoc|Designator=Power|SchDesignator=Power|FileName=Dionysus_Power.SchDoc|SymbolType=Normal|RawFileName=Dionysus_Power.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|Record=SheetSymbol|SourceDocument=Dionysus_Main.SchDoc|Designator=SDRAM|SchDesignator=SDRAM|FileName=Dionysus_SDRAM.SchDoc|SymbolType=Normal|RawFileName=Dionysus_SDRAM.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|Record=SheetSymbol|SourceDocument=Dionysus_Main.SchDoc|Designator=SPI_Flash|SchDesignator=SPI_Flash|FileName=Dionysus_SPI_Flash.SchDoc|SymbolType=Normal|RawFileName=Dionysus_SPI_Flash.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SubProject|Record=SubProject|ProjectPath=CD1_FPGA_PROJECT.PrjFpg
+Record=SubProject|Record=SubProject|ProjectPath=CD1_FPGA_PROJECT.PrjFpg
+Record=SubProject|Record=SubProject|ProjectPath=CD1_FPGA_PROJECT.PrjFpg
+Record=SubProject|Record=SubProject|ProjectPath=CD1_FPGA_PROJECT.PrjFpg
+Record=SubProject|Record=SubProject|ProjectPath=CD1_FPGA_PROJECT.PrjFpg
+Record=SubProject|Record=SubProject|ProjectPath=CD1_FPGA_PROJECT.PrjFpg
+Record=SubProject|Record=SubProject|ProjectPath=CD1_FPGA_PROJECT.PrjFpg

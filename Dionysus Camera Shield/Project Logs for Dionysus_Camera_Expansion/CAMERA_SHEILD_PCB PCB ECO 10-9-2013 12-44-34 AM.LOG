@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=CAM_CLK_IN Pin=J1-5
+Removed Pin From Net: NetName=CAM_D0 Pin=J2-2
+Added Pin To Net: NetName=CAM_D0 Pin=J1-5
+Added Pin To Net: NetName=CAM_CLK_IN Pin=J2-2

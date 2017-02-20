@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=GND Pin=R10-2
+Removed Pin From Net: NetName=V3P3 Pin=R12-1
+Removed Pin From Net: NetName=V3P3 Pin=R18-1
+Removed Pin From Net: NetName=FPGA_PROGRAM Pin=R20-2
+Removed Pin From Net: NetName=SOFT_RST Pin=R28-2
+Change Component DesignItemId : Designator=U1 Old DesignItemId=XC6SLX9-3TQG144I New DesignItemId=U_XC6SLX9-3TQG144C
+Change Component Comment : Designator=U1 Old Comment=XC6SLX9-3TQG144I New Comment=XC6SLX9-3TQG144C
+Change Component Library : Designator=U1 Old Library=Main LibraryX.SchLib New Library=Main Library.IntLib
+Added Pin To Net: NetName=GND Pin=U1-144
+Added Pin To Net: NetName=V3P3 Pin=U6-14
+Added Pin To Net: NetName=FPGA_PROGRAM Pin=U6-43
+Added Pin To Net: NetName=SOFT_RST Pin=U6-45
+Change Net Name : Old Net Name=SOFT_RST New Net Name=GPIOL2

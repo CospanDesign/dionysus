@@ -1,0 +1,10 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : PCB Document [Dionysus.PcbDoc]
+   Generated File[Pick Place for Dionysus.txt]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 10:18:59 AM On 8/29/2012

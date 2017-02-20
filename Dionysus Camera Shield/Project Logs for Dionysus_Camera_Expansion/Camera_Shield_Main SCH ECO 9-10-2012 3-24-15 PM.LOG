@@ -1,0 +1,16 @@
+Remove Pin=J1-1 From Net=CAM_CLK_IN
+Remove Pin=J1-2 From Net=CAM_STROBE
+Remove Pin=J1-3 From Net=CAM_HSYNC
+Remove Pin=J1-4 From Net=CAM_VSYNC
+Remove Pin=J1-5 From Net=CAM_PIXCLK
+Remove Pin=J1-6 From Net=CAM_D7
+Remove Pin=J1-7 From Net=CAM_D6
+Remove Pin=J1-8 From Net=CAM_D5
+Add Pin To Net: Pin=J1-1 Old Net=CAM_CLK_IN New Net=CAM_PIXCLK
+Add Pin To Net: Pin=J1-2 Old Net=CAM_STROBE New Net=CAM_D7
+Add Pin To Net: Pin=J1-3 Old Net=CAM_HSYNC New Net=CAM_D6
+Add Pin To Net: Pin=J1-4 Old Net=CAM_VSYNC New Net=CAM_D5
+Add Pin To Net: Pin=J1-5 Old Net=CAM_PIXCLK New Net=CAM_CLK_IN
+Add Pin To Net: Pin=J1-6 Old Net=CAM_D7 New Net=CAM_STROBE
+Add Pin To Net: Pin=J1-7 Old Net=CAM_D6 New Net=CAM_HSYNC
+Add Pin To Net: Pin=J1-8 Old Net=CAM_D5 New Net=CAM_VSYNC

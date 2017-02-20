@@ -1,0 +1,35 @@
+Removed Pin From Net: NetName=V3P3 Pin=J4-1
+Removed Pin From Net: NetName=GND Pin=J4-2
+Removed Pin From Net: NetName=TPU Pin=J4-3
+Removed Pin From Net: NetName=TPL Pin=J4-4
+Removed Pin From Net: NetName=TPD Pin=J4-5
+Removed Pin From Net: NetName=TPR Pin=J4-6
+Removed Pin From Net: NetName=V3P3 Pin=J5-1
+Removed Pin From Net: NetName=GND Pin=J5-2
+Removed Pin From Net: NetName=SCL Pin=J5-3
+Removed Pin From Net: NetName=SDA Pin=J5-4
+Removed Pin From Net: NetName=INT_N Pin=J5-5
+Removed Pin From Net: NetName=WAKE_N Pin=J5-6
+Change Component DesignItemId : Designator=J5 Old DesignItemId=J_HDR1X6_THRHOLE_VERT_FEMALE New DesignItemId=J_HDR1X6_THRHOLE_VERT
+Change Component Footprint: Designator=J5 Old Footprint=HDR_1X6 - FEMALE New Footprint=HDR_1X6
+Change Component Comment : Designator=J5 Old Comment=J_HDR1X6_THRHOLE_VERT_FEMALE New Comment=J_HDR1X6_THRHOLE_VERT
+Added Component: Designator=T1(ERA-0603-SOLDER_JUMPER)
+Added Component: Designator=T2(ERA-0603-SOLDER_JUMPER)
+Added Pin To Net: NetName=TPR Pin=J4-1
+Added Pin To Net: NetName=TPD Pin=J4-2
+Added Pin To Net: NetName=TPL Pin=J4-3
+Added Pin To Net: NetName=TPU Pin=J4-4
+Added Pin To Net: NetName=GND Pin=J4-5
+Added Pin To Net: NetName=SCL Pin=J5-1
+Added Pin To Net: NetName=SDA Pin=J5-2
+Added Pin To Net: NetName=INT_N Pin=J5-3
+Added Pin To Net: NetName=WAKE_N Pin=J5-4
+Added Pin To Net: NetName=GND Pin=J5-5
+Added Pin To Net: NetName=V3P3 Pin=T1-1
+Added Pin To Net: NetName=V3P3 Pin=T2-1
+Added Pin To Net: NetName=NetJ4_6 Pin=J4-6
+Added Pin To Net: NetName=NetJ4_6 Pin=T2-2
+Added Net: Name=NetJ4_6
+Added Pin To Net: NetName=NetJ5_6 Pin=J5-6
+Added Pin To Net: NetName=NetJ5_6 Pin=T1-2
+Added Net: Name=NetJ5_6

@@ -1,0 +1,3 @@
+Added Component: Designator=R9(R_0402)
+Added Pin To Net: NetName=CAM_RST Pin=R9-1
+Added Pin To Net: NetName=GND Pin=R9-2

@@ -1,0 +1,6 @@
+Added Component: Designator=J3(HDR_1X6 - FEMALE)
+Added Pin To Net: NetName=GND Pin=J3-2
+Added Pin To Net: NetName=GND Pin=J3-3
+Added Pin To Net: NetName=V5P0 Pin=J3-4
+Added Pin To Net: NetName=V3P3 Pin=J3-5
+Added Pin To Net: NetName=SOFT_RST Pin=J3-6

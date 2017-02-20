@@ -1,0 +1,9 @@
+Added Component: Designator=LED2(DIOM0603)
+Added Component: Designator=R7(ERA-0402)
+Added Pin To Net: NetName=GND Pin=R7-2
+Added Pin To Net: NetName=CAMERA_FLASH Pin=J3-6
+Added Pin To Net: NetName=CAMERA_FLASH Pin=LED2-2
+Added Net: Name=CAMERA_FLASH
+Added Pin To Net: NetName=NetLED2_1 Pin=LED2-1
+Added Pin To Net: NetName=NetLED2_1 Pin=R7-1
+Added Net: Name=NetLED2_1
