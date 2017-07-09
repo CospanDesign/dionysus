@@ -1,0 +1,73 @@
+Altium Designer Pick and Place Locations
+C:\Users\davem\OneDrive\Documents\GitHub\dionysus\Dionysus LCD PMOD\Rev B\Project Outputs for Dionysus LCD PMOD Rev B\Assembly\Pick Place\Pick Place for Dionysus LCD PMOD.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       09/07/17
+Time:       01:12
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment                      Layer       Footprint           Center-X(mil) Center-Y(mil) Rotation Description                        
+C1         10uF                         BottomLayer C_ERA-0805          381.890       1302.362      270      "CAP CER 10UF 6.3V X7R 10% 0805"   
+C2         10uF                         BottomLayer C_ERA-0805          476.378       1302.362      270      "CAP CER 10UF 6.3V X7R 10% 0805"   
+C3         10uF                         BottomLayer C_ERA-0805          381.890       401.575       270      "CAP CER 10UF 6.3V X7R 10% 0805"   
+C4         10uF                         BottomLayer C_ERA-0805          476.378       401.575       270      "CAP CER 10UF 6.3V X7R 10% 0805"   
+C5         0.1uF                        BottomLayer C_0402              1145.764      1787.574      360      "CAP CER .10UF 16V X7R 0402"       
+C6         10pF                         BottomLayer C_ERA-0402          2897.929      919.685       180      "CAP CER 10PF 50V NP0 0402"        
+C7         10pF                         BottomLayer C_ERA-0402          2897.180      1255.000      360      "CAP CER 10PF 50V NP0 0402"        
+C8         C_0603_1µF_16V               BottomLayer C_ERA-0603          4006.617      1141.732      180      "CAP CER 1UF 16V X7R 0603"         
+C9         C_0603_1µF_16V               BottomLayer C_ERA-0603          3253.000      1319.465      270      "CAP CER 1UF 16V X7R 0603"         
+C10        C_0603_1µF_16V               BottomLayer C_ERA-0603          3436.142      1427.165      270      "CAP CER 1UF 16V X7R 0603"         
+C11        C_0603_1µF_16V               BottomLayer C_ERA-0603          3688.110      1430.465      270      "CAP CER 1UF 16V X7R 0603"         
+C12        C_0603_1µF_16V               BottomLayer C_ERA-0603          3223.535      716.000       360      "CAP CER 1UF 16V X7R 0603"         
+C13        C_0603_1µF_16V               BottomLayer C_ERA-0603          3335.000      587.535       90       "CAP CER 1UF 16V X7R 0603"         
+C14        C_0603_1µF_16V               BottomLayer C_ERA-0603          3481.000      551.535       90       "CAP CER 1UF 16V X7R 0603"         
+C15        C_0603_1µF_16V               BottomLayer C_ERA-0603          3607.795      602.362       90       "CAP CER 1UF 16V X7R 0603"         
+C16        C_0603_1µF_16V               BottomLayer C_ERA-0603          3735.354      602.362       90       "CAP CER 1UF 16V X7R 0603"         
+C17        C_0603_1µF_16V               BottomLayer C_ERA-0603          3828.268      1413.386      270      "CAP CER 1UF 16V X7R 0603"         
+C18        C_0603_1µF_16V               BottomLayer C_ERA-0603          4021.504      961.622       180      "CAP CER 1UF 16V X7R 0603"         
+C19        C_0603_1µF_16V               BottomLayer C_ERA-0603          3978.465      836.220       180      "CAP CER 1UF 16V X7R 0603"         
+C20        0.1uF                        BottomLayer C_0402              3130.315      795.276       360      "CAP CER .10UF 16V X7R 0402"       
+C21        0.1uF                        BottomLayer C_0402              3560.551      1413.386      270      "CAP CER .10UF 16V X7R 0402"       
+C22        0.1uF                        BottomLayer C_0402              3814.094      592.913       90       "CAP CER .10UF 16V X7R 0402"       
+C23        0.1uF                        BottomLayer C_0402              3653.000      590.315       90       "CAP CER .10UF 16V X7R 0402"       
+C24        0.1uF                        BottomLayer C_0402              3115.315      930.000       360      "CAP CER .10UF 16V X7R 0402"       
+C25        0.1uF                        BottomLayer C_0402              3340.079      1413.386      270      "CAP CER .10UF 16V X7R 0402"       
+C26        0.1uF                        BottomLayer C_0402              3924.331      1343.560      270      "CAP CER .10UF 16V X7R 0402"       
+C27        0.1uF                        BottomLayer C_0402              3994.685      1094.488      180      "CAP CER .10UF 16V X7R 0402"       
+C28        0.1uF                        BottomLayer C_0402              3145.315      1165.355      360      "CAP CER .10UF 16V X7R 0402"       
+C29        C_0603_1µF_16V               BottomLayer C_ERA-0603          3138.535      1023.622      360      "CAP CER 1UF 16V X7R 0603"         
+C30        10uF                         BottomLayer C_ERA-0805          4335.496      612.559       90       "CAP CER 10UF 6.3V X7R 10% 0805"   
+C31        0.1uF                        BottomLayer C_0402              4272.496      613.866       90       "CAP CER .10UF 16V X7R 0402"       
+C32        22uF                         BottomLayer C_ERA-0805          4060.496      608.543       90       "CAP CER 22UF 6.3V X7R 10% 0805"   
+C33        10uF                         BottomLayer C_ERA-0805          634.567       2079.268      90       "CAP CER 10UF 6.3V X7R 10% 0805"   
+C34        0.1uF                        BottomLayer C_0402              713.307       2082.417      90       "CAP CER .10UF 16V X7R 0402"       
+C35        C_0402_2.2uF_35V             BottomLayer C_ERA-0402          955.827       1905.315      270      "CAP CER 2.2UF 35V 20% X5R 0402"   
+D1         B1100-13-F                   BottomLayer DIOM5226X23L        1062.913      1964.370      90       "DIODE SCHOTTKY 100V 1A SMA"       
+J1         PMOD                         TopLayer    PMOD_PERIPHERAL     200.000       610.000       90       "CONN HEADER 12PS .100 DL R/A TIN" 
+J2         PMOD                         TopLayer    PMOD_PERIPHERAL     200.000       1510.000      90       "CONN HEADER 12PS .100 DL R/A TIN" 
+J3         Flatlink                     BottomLayer FPC_40PIN           1482.378      1681.220      270      "CONN FFC/FPC .50MM 40POS R/A SMD" 
+L2         CBC2016T220K                 BottomLayer L_0806              840.000       2216.000      180      "INDUCTOR 22UH 10% 0806 SMD"       
+R3         R_0402_64.9K                 BottomLayer ERA-0402            4118.496      488.551       270      "RES 64.9K OHM 1/16W 1% 0402 SMD"  
+R4         R_0402_39.2K                 BottomLayer ERA-0402            4195.591      462.646       90       "RES 39.2K OHM 1/16W 1% 0402 SMD"  
+R5         R_0402_10.0K                 BottomLayer R_0402              792.047       1801.315      270      "RES 10.0K OHM 1/16W 1% 0402 SMD"  
+R6         R_1206_4.99                  BottomLayer R_1206              886.535       1765.882      270      "RES SMD 4.99 OHM 1% 3/4W 1206"    
+U1         U_SSD1963QL9                 BottomLayer LQFP128             3570.000      1000.000      360      SSD1963QL9                         
+U2         TPS62080                     BottomLayer QFN50P200X200X80-8L 4185.748      590.551       180      "IC BUCK SYNC ADJ 1.2A 8WSON"      
+U3         U_LM3410XMFE                 BottomLayer MF05A_N             839.291       2063.520      180      "IC DRVR WT/OLED BCKLT SOT23-5"    
+Y1         Y_SMD_10.00MHZ_10PF          BottomLayer SMD_OSC_8MHZ        2897.929      1092.914      270      "CRYSTAL 10MHZ 10PF SMD"           
+L1         1.0uH                        BottomLayer INDNRH1212          4174.000      776.000       180      "INDUCTOR POWER 1.0UH 1620MA 1212" 
+J4         J_HDR1X6_THRHOLE_VERT_FEMALE BottomLayer HDR_1X6_-_FEMALE    1550.000      2600.000      180      "CONN HEADER FEMALE 6POS .1" TIN"  
+J5         J_HDR1X6_THRHOLE_VERT        BottomLayer HDR_1X6             2550.000      2600.000      180      "CONN HEADER .100" 12POS TIN PCB"  
+J6         J_MOLX-52271-0679            BottomLayer MOLX-52271-0679     2370.157      1536.535      180      "CONN FFC 6POS 1MM R/A ZIF SMD"    
+R7         "2.2k Ohms"                  BottomLayer R_0402              2799.000      2300.315      90       "RES 2.20K OHM 1/10W 1% 0402 SMD"  
+R8         "2.2k Ohms"                  BottomLayer R_0402              2700.000      2300.315      90       "RES 2.20K OHM 1/10W 1% 0402 SMD"  
+R9         R_0402_10.0K                 BottomLayer R_0402              2600.000      2300.315      90       "RES 10.0K OHM 1/16W 1% 0402 SMD"  
+R10        R_0402_10.0K                 BottomLayer R_0402              2500.000      2300.315      270      "RES 10.0K OHM 1/16W 1% 0402 SMD"  
+C36        0.1uF                        BottomLayer C_0402              2053.000      2464.685      270      "CAP CER .10UF 16V X7R 0402"       
+R11        R_0402_10.0K                 BottomLayer R_0402              2164.685      2155.000      180      "RES 10.0K OHM 1/16W 1% 0402 SMD"  
+U4         U_TI-ADS1015_1115-10         BottomLayer TI-DGS10_L          2053.000      2287.000      90       "IC ADC 12BIT I2C W/REF 10-MSOP"   
+R12        "2.2k Ohms"                  BottomLayer R_0402              1499.000      2256.315      90       "RES 2.20K OHM 1/10W 1% 0402 SMD"  

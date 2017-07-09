@@ -1,0 +1,17 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: Dionysus LCD PMOD.PcbDoc   11/14/2014  1:59:55 PM
+---------------------------------------------------------------------------
+
+Layer Pair : Component Side to Solder Side
+ASCII RoundHoles File : Dionysus LCD PMOD.TXT
+EIA File   : Dionysus LCD PMOD.DRL
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        10mil (0.254mm)          Round          149              21.58 Inch (548.06 mm)
+T2        40mil (1.016mm)          Round          36               8.94 Inch (226.97 mm)
+T3        125mil (3.175mm)         Round          4                11.31 Inch (287.22 mm)
+---------------------------------------------------------------------------
+Totals                                            189              41.82 Inch (1062.26 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

@@ -1,0 +1,10 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [Production] of PCB Document [Dionysus LCD PMOD.PcbDoc]
+   Generated File[Pick Place for Dionysus LCD PMOD(Production).txt]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 11:37:29 AM On 7/9/2017
