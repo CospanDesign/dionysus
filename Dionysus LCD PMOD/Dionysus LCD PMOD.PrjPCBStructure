@@ -1,4 +1,0 @@
-Record=TopLevelDocument|FileName=Block Diagram.SchDoc
-Record=SheetSymbol|Record=SheetSymbol|SourceDocument=Block Diagram.SchDoc|Designator=LCD Connector|SchDesignator=LCD Connector|FileName=LCD Connector.SchDoc|SymbolType=Normal|RawFileName=LCD Connector.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
-Record=SheetSymbol|Record=SheetSymbol|SourceDocument=Block Diagram.SchDoc|Designator=LCD Controller|SchDesignator=LCD Controller|FileName=LCD Controller.SchDoc|SymbolType=Normal|RawFileName=LCD Controller.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
-Record=SheetSymbol|Record=SheetSymbol|SourceDocument=Block Diagram.SchDoc|Designator=Power|SchDesignator=Power|FileName=Power.SchDoc|SymbolType=Normal|RawFileName=Power.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

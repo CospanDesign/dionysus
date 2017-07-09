@@ -3,10 +3,14 @@ Version=1.0
 [Project1]
 ProjectPath=Main Board\Rev A\Dionysus.PrjPcb
 [Project2]
-ProjectPath=Main Board\Rev A\CD1_FPGA_PROJECT.PrjFpg
-[Project3]
 ProjectPath=Dionysus Lab Shield\Rev A\Dionysus Lab Shield.PrjPCB
-[Project4]
-ProjectPath=Dionysus LCD PMOD\Dionysus LCD PMOD.PrjPCB
-[Project5]
+[Project3]
 ProjectPath=Dionysus Camera Shield\Dionysus_Camera_Expansion.PrjPCB
+[Project4]
+ProjectPath=Dionysus LCD PMOD\Rev B\Dionysus LCD PMOD Rev B.PrjPCB
+[Project5]
+ProjectPath=..\..\..\..\Dropbox\hardware\Altium\Library\Cospan Design Library\Cospan Design.LibPkg
+[Project6]
+ProjectPath=..\..\..\..\Dropbox\hardware\Altium\Library\Main Library.LibPkg
+[Project7]
+ProjectPath=Dionysus LCD PMOD\Rev A\Dionysus LCD PMOD Rev A.PrjPCB

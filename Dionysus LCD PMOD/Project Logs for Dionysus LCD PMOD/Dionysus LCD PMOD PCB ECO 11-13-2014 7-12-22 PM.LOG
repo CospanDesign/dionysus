@@ -1,4 +1,0 @@
-Removed Pin From Net: NetName=RESET_N Pin=J1-1
-Removed Pin From Net: NetName=CS_N Pin=J1-7
-Added Pin To Net: NetName=CS_N Pin=J1-1
-Added Pin To Net: NetName=RESET_N Pin=J1-7
